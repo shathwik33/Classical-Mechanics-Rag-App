@@ -1,5 +1,3 @@
-Sure! Here's the full content of the `README.md` file in one go — just copy and paste it:
-
 # Classical Mechanics RAG App
 
 A Retrieval-Augmented Generation (RAG) application that answers questions from classical mechanics using local PDFs and a vector database. This app processes a PDF, stores the content using vector embeddings, and uses a language model to answer questions interactively.
